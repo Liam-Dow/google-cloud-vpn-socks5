@@ -1,0 +1,21 @@
+{
+    "project_id": "my-vpn-438119",
+    "network_tier": "PREMIUM",
+    "machine_tags": ["wireguard"],
+    "instance_prefix": "vpn-server",
+    "machine_type": "e2-medium",
+    
+    "wireguard_port": 51820,
+    "wireguard_clients": [
+        {
+            "name": "macbook",
+            "public_key": "N1ld+ICERobuzhZnggERhnfYBpiOuMFncLYFErMH+kw=",
+            "allowed_ip": "10.0.0.2/32"
+        }
+    ],
+    
+    "wireguard_config_file": "/opt/homebrew/etc/wireguard/wg0.conf",
+    
+    "ip_info_service": "http://ipinfo.io/json",
+    "connectivity_check_ip": "8.8.8.8"
+}

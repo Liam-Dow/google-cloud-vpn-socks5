@@ -1,0 +1,127 @@
+{
+   "africa-south1":{
+      "name":"Johannesburg, South Africa"
+   },
+   "asia-east1":{
+      "name":"Taiwan, Republic of China"
+   },
+   "asia-east2":{
+      "name":"Hong Kong, People's Republic of China"
+   },
+   "asia-northeast1":{
+      "name":"Tokyo, Japan"
+   },
+   "asia-northeast2":{
+      "name":"Osaka, Japan"
+   },
+   "asia-northeast3":{
+      "name":"Seoul, South Korea"
+   },
+   "asia-south1":{
+      "name":"Mumbai, India"
+   },
+   "asia-south2":{
+      "name":"Delhi, India"
+   },
+   "asia-southeast1":{
+      "name":"Singapore"
+   },
+   "asia-southeast2":{
+      "name":"Jakarta, Indonesia"
+   },
+   "australia-southeast1":{
+      "name":"Sydney, Australia"
+   },
+   "australia-southeast2":{
+      "name":"Melbourne, Australia"
+   },
+   "europe-central2":{
+      "name":"Warsaw, Poland"
+   },
+   "europe-north1":{
+      "name":"Hamina, Finland"
+   },
+   "europe-north2":{
+    "name":"Stockholm, Sweden"
+ },
+   "europe-southwest1":{
+      "name":"Madrid, Spain"
+   },
+   "europe-west1":{
+      "name":"Belgium"
+   },
+   "europe-west2":{
+      "name":"London, UK"
+   },
+   "europe-west3":{
+      "name":"Frankfurt, Germany"
+   },
+   "europe-west4":{
+      "name":"Netherlands"
+   },
+   "europe-west6":{
+      "name":"Zurich, Switzerland"
+   },
+   "europe-west8":{
+      "name":"Milan, Italy"
+   },
+   "europe-west9":{
+      "name":"Paris, France"
+   },
+   "europe-west10":{
+      "name":"Berlin, Germany"
+   },
+   "europe-west12":{
+      "name":"Turin, Italy"
+   },
+   "me-west1":{
+      "name":"Tel Aviv, Israel"
+   },
+   "me-central1":{
+      "name":"Doha, Qatar"
+   },
+   "me-central2":{
+      "name":"Dammam, Kingdom of Saudi Arabia"
+   },
+   "northamerica-northeast1":{
+      "name":"Montréal, Canada"
+   },
+   "northamerica-northeast2":{
+      "name":"Toronto, Canada"
+   },
+   "northamerica-south1":{
+      "name":"Queretaro, Mexico"
+   },   "southamerica-east1":{
+      "name":"São Paulo, Brazil"
+   },
+   "southamerica-west1":{
+      "name":"Santiago, Chile"
+   },
+   "us-central1":{
+      "name":"Iowa, USA"
+   },
+   "us-east1":{
+      "name":"South Carolina, USA"
+   },
+   "us-east4":{
+      "name":"Northern Virginia, USA"
+   },
+   "us-east5":{
+      "name":"Columbus, Ohio, USA"
+   },
+   "us-south1":{
+      "name":"Dallas, Texas, USA"
+   },
+   "us-west1":{
+      "name":"Oregon, USA"
+   },
+   "us-west2":{
+      "name":"Los Angeles, California, USA"
+   },
+   "us-west3":{
+      "name":"Salt Lake City, Utah, USA"
+   },
+   "us-west4":{
+      "name":"Las Vegas, Nevada, USA"
+   }
+}

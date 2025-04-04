@@ -1,0 +1,14 @@
+{
+    "instance_name": "vpn-server-example",
+    "zone": "us-west1-b",
+    "server_public_key": "EXAMPLE_SERVER_PUBLIC_KEY_PLACEHOLDER=",
+    "server_ip": "35.123.456.789",
+    "status": {
+        "instance_exists": true,
+        "instance_running": true,
+        "connected": false,
+        "last_check": "2025-04-04T15:00:00.000Z"
+    },
+    "deployment_time": "2025-04-01T12:00:00.000Z",
+    "last_start_time": "2025-04-04T14:30:00.000Z"
+}

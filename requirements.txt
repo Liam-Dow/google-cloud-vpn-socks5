@@ -1,0 +1,4 @@
+InquirerPy>=0.3.4
+google-cloud-compute>=1.14.0
+google-auth>=2.20.0
+yaspin>=3.0.0

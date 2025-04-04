@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.ropeproject/
+.DS_Store
+.Spotlight-V100
+.Trashes
+.README.md
+notes.txt
+config.json
+vpn_config.json
+vpn_state.json
