@@ -1,5 +1,5 @@
 {
-    "project_id": "my-vpn-438119",
+    "project_id": "my-project-id",
     "network_tier": "PREMIUM",
     "machine_tags": ["wireguard"],
     "instance_prefix": "vpn-server",
@@ -8,7 +8,7 @@
     "wireguard_port": 51820,
     "wireguard_clients": [
         {
-            "name": "macbook",
+            "name": "Macbook",
             "public_key": "N1ld+ICERobuzhZnggERhnfYBpiOuMFncLYFErMH+kw=",
             "allowed_ip": "10.0.0.2/32"
         }

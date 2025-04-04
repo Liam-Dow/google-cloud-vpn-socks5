@@ -9,3 +9,4 @@ notes.txt
 config.json
 vpn_config.json
 vpn_state.json
+dnsleaktest.sh
