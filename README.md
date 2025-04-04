@@ -71,7 +71,7 @@ Before you start, make sure you have the following:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/Liam-Dow/vpn-manager.git
+    git clone https://github.com/Liam-Dow/google-cloud-vpn-socks5
     cd vpn-manager
     ```
 
